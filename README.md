@@ -1,5 +1,4 @@
-# Abhinav Singarapu
-
+# Abhinav Singarapu  
 📍 Fairborn, OH | 📧 singarapu1999@gmail.com | 📞 513-318-8292 | [https://www.linkedin.com/in/abhinav-singarapu-0750611b0/](#) | [https://github.com/Abhinav150526](#)  
 
 ---
@@ -112,4 +111,4 @@ Power BI, Tableau.
 ---
 
 ## ✨ **What’s Next?**  
-I am passionate about building scalable, real-time data solutions that drive business decisions. I am currently exploring ways to integrate **machine learning models** into big data platforms to enhance predictive analytics capabilities. If you'd like to collaborate or discuss opportunities, feel free to reach out!
+I am passionate about building scalable, real-time data solutions that drive business decisions. I am currently exploring ways to integrate **machine learning models** into big data platforms to enhance predictive analytics capabilities. If you'd like to collaborate or discuss opportunities, feel free to reach out!  

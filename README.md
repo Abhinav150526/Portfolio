@@ -69,15 +69,33 @@ Power BI, Tableau.
 
 ---
 
-## 📂 **Key Projects**  
+## 📂 **Highlighted Projects**  
 
 ### **Real-Time Data Processing for Telecom Analytics**  
-- Built real-time data ingestion pipelines using Kafka, PySpark, and AWS Glue to process large-scale streaming data.  
-- Enabled near real-time analytics by integrating processed data into Snowflake and visualizing trends using Power BI dashboards.  
+**Tools & Technologies:** Kafka, PySpark, AWS Glue, Snowflake, Power BI  
+- Built a real-time ingestion pipeline for processing streaming data from multiple sources, enabling near-instant insights.  
+- Visualized trends and operational KPIs using Power BI dashboards, driving data-driven decision-making for telecom operations.  
 
 ### **Cloud Data Migration and Modernization**  
-- Migrated on-premise SQL and Oracle data warehouses to Snowflake and AWS Redshift, leveraging ADF and Glue for data transformation.  
-- Designed CI/CD pipelines using Jenkins and Git for automated deployment and testing, reducing downtime during migration.  
+**Tools & Technologies:** SQL, Oracle, Snowflake, AWS Redshift, Jenkins, ADF  
+- Migrated legacy SQL and Oracle databases to Snowflake and AWS Redshift, optimizing data pipelines for cloud infrastructure.  
+- Automated testing and deployment of ETL workflows using Jenkins and CI/CD practices, reducing deployment time by 20%.  
+
+### **Interactive Power BI Dashboards for Sales Analysis**  
+**Tools & Technologies:** Power BI, Azure Synapse, SQL  
+- Designed interactive dashboards with drill-through capabilities for real-time monitoring of sales performance and operational trends.  
+- Implemented Row-Level Security (RLS) to provide role-based views for different business units.  
+
+---
+
+## 📚 **Learning & Insights**  
+
+### **Certifications**  
+- AWS Certified Associate – Specialty  
+- Azure Data Engineer Associate    
+
+### **Workshops & Blogs**  
+- **Workshop:** "Optimizing ETL Workflows in Cloud Environments" – Presented at Big Data Conference 2023.  
 
 ---
 
@@ -89,3 +107,8 @@ Power BI, Tableau.
 
 ## 🖥️ **Portfolio & Code Samples**  
 - **GitHub:** [https://github.com/Abhinav150526](#)
+
+---
+
+## ✨ **What’s Next?**  
+I am passionate about building scalable, real-time data solutions that drive business decisions. I am currently exploring ways to integrate **machine learning models** into big data platforms to enhance predictive analytics capabilities. If you'd like to collaborate or discuss opportunities, feel free to reach out!

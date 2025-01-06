@@ -1,4 +1,6 @@
 # Abhinav Singarapu  
+![Profile Picture](./profile-pic.jpg)
+
 📍 Fairborn, OH | 📧 singarapu1999@gmail.com | 📞 513-318-8292 | [https://www.linkedin.com/in/abhinav-singarapu-0750611b0/](#) | [https://github.com/Abhinav150526](#)  
 
 ---

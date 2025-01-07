@@ -2,116 +2,109 @@
 
 ![Abhinav Singarapu](/Image/Profile__Picture.png)
 
-📍 Fairborn, OH | 📧 singarapu1999@gmail.com | 📞 513-318-8292 | [LinkedIn](https://www.linkedin.com/in/abhinav-singarapu-0750611b0/) | [GitHub](https://github.com/Abhinav150526)  
+📍 Fairborn, OH | 📧 singarapu1999@gmail.com | 📞 513-318-8292 | [LinkedIn](#) | [GitHub](#)  
 
 ---
 
 ## 🛠️ **Technical Expertise**  
 
-### **Big Data Technologies:**  
-Hadoop, Spark, Kafka, Hive, HDFS, Airflow, Sqoop, Flume, Pig, HBase, Impala, MapReduce, Oozie, ANSI SQL, Data Modeling.  
-
-### **Programming Languages:**  
-Python, PySpark, Java, Scala.  
-
-### **Cloud Platforms:**  
-AWS (S3, Redshift, Glue, Lambda, Step Functions, EMR), Azure (ADF, Synapse, Data Lake), GCP.  
-
-### **Databases:**  
-Relational: SQL, MySQL, MSSQL, PostgreSQL, Oracle.  
-NoSQL: HBase, DynamoDB, MongoDB.  
-
-### **Data Warehousing & Data Lakes:**  
-Snowflake, Redshift, BigQuery, Azure Synapse, HDFS, S3, Azure Blob Storage.  
-
-### **ETL Tools:**  
-Informatica, AWS Glue, Azure Data Factory (ADF).  
-
-### **Version Control & CI/CD Tools:**  
-Git, Bitbucket, Jenkins, Terraform.  
-
-### **Business Intelligence Tools:**  
-Power BI, Tableau.  
+- **Big Data Technologies:** Hadoop, Spark, Kafka, Hive, HDFS, Airflow, Sqoop, Flume, Pig, HBase, Impala, MapReduce, Oozie, ANSI SQL, Data Modeling.  
+- **Programming Languages:** Python, PySpark, Java, Scala.  
+- **Cloud Platforms:** AWS (S3, Redshift, Glue, Lambda, Step Functions, EMR), Azure (ADF, Synapse, Data Lake), GCP.  
+- **Databases:** SQL, MySQL, MSSQL, PostgreSQL, Oracle, HBase, DynamoDB, MongoDB.  
+- **Data Warehousing & Data Lakes:** Snowflake, Redshift, BigQuery, Azure Synapse, HDFS, S3, Azure Blob Storage.  
+- **ETL Tools:** Informatica, AWS Glue, Azure Data Factory (ADF).  
+- **Version Control & CI/CD Tools:** Git, Bitbucket, Jenkins, Terraform.  
+- **Business Intelligence Tools:** Power BI, Tableau.  
 
 ---
 
-## 💼 **Professional Experience**  
+## 💼 **Professional Journey: Crafting Scalable Data Solutions**  
 
-### **Senior Data Engineer | Verizon**  
-**_Jan 2024 – Present | Cincinnati, OH_**  
-- Designed and implemented Hadoop-based data architectures to store and process large datasets, enhancing accessibility and analytics capabilities.  
-- Developed scalable ETL pipelines using Spark, Hive, and Airflow, enabling seamless data flow between multiple systems.  
-- Built end-to-end data pipelines to ingest, transform, and manage structured and unstructured data within a unified Lakehouse architecture.  
-- Created real-time data processing workflows using PySpark Streaming and Kafka, improving operational efficiency.  
-- Automated workflow orchestration using AWS Glue and Step Functions for efficient data processing.  
-- Conducted performance tuning on Spark applications, significantly reducing data processing times for large-scale distributed datasets.  
-- Integrated disparate data sources, including SQL, NoSQL, APIs, and cloud platforms, for unified reporting solutions.  
+### **Optimizing Big Data Architectures at Verizon**   
 
-### **Cloud Data Engineer | Uber**  
-**_May 2023 – Dec 2023 | Dallas, TX_**  
-- Developed complex SQL queries for data cleansing, aggregation, and transformation on AWS RDS and Redshift.  
-- Built data pipelines using AWS Glue, Spark, and Hive to process and analyze customer data, ensuring scalability and performance.  
-- Designed and implemented Power BI dashboards for visualizing sales and operational metrics, integrating SQL-transformed data.  
-- Configured IAM roles and VPC-based access controls for secure AWS RDS deployments.  
-- Migrated on-premise Oracle databases to AWS Redshift, optimizing performance and query execution times.  
+- Engineered **Hadoop-based data architectures** to streamline storage and analytics for large-scale datasets, improving data accessibility across teams.  
+- Built **real-time data processing workflows** using PySpark Streaming and Kafka, enabling sub-second latency for critical operational metrics.  
+- Designed and automated end-to-end **ETL pipelines** using Spark, Hive, and AWS Glue, ensuring seamless flow between structured and unstructured data sources.  
+- Leveraged AWS Glue and Step Functions for workflow orchestration, optimizing performance and reducing manual intervention.  
+- Tuned Spark applications to improve data processing efficiency by 30%, reducing operational costs.  
 
-### **Data Engineer | Citi**  
-**_April 2021 – July 2022 | Hyderabad, India_**  
-- Developed Azure-based data pipelines using ADF and Synapse Analytics to integrate SQL and Oracle data into Azure Data Lake.  
-- Designed semantic data models for OLAP-based analytics, optimizing Oracle data structures for scalability and performance.  
-- Built automated reporting pipelines in Power BI, integrating data from Azure Synapse and SQL for actionable insights.  
-- Streamlined ETL workflows and reduced manual interventions by implementing Azure Functions for event-driven automation.  
-- Applied advanced SQL techniques for performance tuning, improving reporting efficiency by 40%.  
+### **Transforming Data Pipelines at Uber**   
 
-### **Analyst | Cyient**  
-**_April 2018 – March 2021 | Hyderabad, India_**  
-- Built interactive dashboards using Power BI and Tableau to visualize key business metrics, including sales performance and customer behavior.  
-- Performed data cleaning and preparation using Python and SQL, ensuring high data quality for reporting.  
-- Automated data refresh schedules in Power BI Service, providing stakeholders with real-time updates.  
-- Conducted exploratory data analysis (EDA) to identify trends and patterns, delivering actionable insights for business growth.  
+- Developed and optimized **SQL queries** to aggregate, cleanse, and transform data for Redshift and AWS RDS, ensuring high data quality and performance.  
+- Migrated legacy Oracle databases to **AWS Redshift**, achieving 40% faster query execution and seamless integration with reporting workflows.  
+- Designed **interactive Power BI dashboards** to visualize sales trends, enhancing business decision-making capabilities.  
+- Implemented secure data workflows by configuring **IAM roles** and VPC-based access controls for AWS RDS environments.  
+- Built real-time **data pipelines** using AWS Glue and Hive, ensuring scalability for processing millions of customer transactions daily.  
+
+### **Building Cloud-Enabled Analytics at Citi**  
+<img src="./assets/citi_project.jpg" alt="Citi Project" width="600">  
+
+- Architected **Azure-based ETL pipelines** with Data Factory and Synapse Analytics, enabling seamless integration of SQL and Oracle datasets into Azure Data Lake.  
+- Designed advanced **semantic data models** for Power BI, ensuring accurate and consistent business reporting across departments.  
+- Automated ETL workflows with **Azure Functions**, reducing manual tasks and improving pipeline reliability.  
+- Tuned SQL queries to improve reporting efficiency by 40%, enabling faster data delivery for business insights.  
+
+### **Delivering Insights with Analytics at Cyient**  
+<img src="./assets/cyient_project.jpg" alt="Cyient Project" width="600">  
+
+- Created **dynamic dashboards** in Power BI and Tableau, enabling real-time tracking of sales and customer behavior metrics.  
+- Streamlined data preparation workflows using Python and SQL, ensuring accuracy and consistency in reporting datasets.  
+- Conducted **exploratory data analysis (EDA)** to identify key trends and patterns, supporting strategic decision-making initiatives.  
 
 ---
 
-## 📂 **Highlighted Projects**  
+## 📂 **Featured Projects: Realizing Business Value through Data**  
 
-### **Real-Time Data Processing for Telecom Analytics**  
-**Tools & Technologies:** Kafka, PySpark, AWS Glue, Snowflake, Power BI  
-- Built a real-time ingestion pipeline for processing streaming data from multiple sources, enabling near-instant insights.  
-- Visualized trends and operational KPIs using Power BI dashboards, driving data-driven decision-making for telecom operations.  
+### **Real-Time Data Processing for Telecom Analytics**    
 
-### **Cloud Data Migration and Modernization**  
-**Tools & Technologies:** SQL, Oracle, Snowflake, AWS Redshift, Jenkins, ADF  
-- Migrated legacy SQL and Oracle databases to Snowflake and AWS Redshift, optimizing data pipelines for cloud infrastructure.  
-- Automated testing and deployment of ETL workflows using Jenkins and CI/CD practices, reducing deployment time by 20%.  
+- **Objective:** Build a low-latency pipeline for ingesting and analyzing streaming data to monitor telecom operations.  
+- **Solutions Delivered:**  
+  - Designed a **Kafka-based ingestion framework** with PySpark to process millions of events in real time.  
+  - Integrated processed data into **Snowflake** and visualized KPIs using Power BI dashboards.  
+  - Achieved sub-second latency, enabling near real-time decision-making for telecom performance metrics.  
 
-### **Interactive Power BI Dashboards for Sales Analysis**  
-**Tools & Technologies:** Power BI, Azure Synapse, SQL  
-- Designed interactive dashboards with drill-through capabilities for real-time monitoring of sales performance and operational trends.  
-- Implemented Row-Level Security (RLS) to provide role-based views for different business units.  
+### **Modernizing Cloud Data Workflows**   
+
+- **Objective:** Migrate legacy data warehouses to scalable cloud platforms and automate workflows.  
+- **Solutions Delivered:**  
+  - Migrated Oracle databases to **AWS Redshift** and Snowflake, optimizing storage and improving query performance by 50%.  
+  - Automated ETL pipelines using Jenkins and CI/CD practices, reducing deployment time by 20%.  
+
+### **Interactive Sales Dashboards**  
+
+- **Objective:** Create advanced reporting dashboards for monitoring sales trends and operational efficiency.  
+- **Solutions Delivered:**  
+  - Built interactive **Power BI dashboards** with drill-through capabilities for detailed insights into sales data.  
+  - Implemented **Row-Level Security (RLS)** to restrict access based on user roles, ensuring compliance and data privacy.  
 
 ---
 
-## 📚 **Learning & Insights**  
+## 📚 **Certifications & Learning**  
 
-### **Certifications**  
-- AWS Certified Associate – Specialty  
-- Azure Data Engineer Associate    
+- **Certifications:**  
+  - AWS Certified Associate – Specialty  
+  - Azure Data Engineer Associate  
 
-### **Workshops & Blogs**  
-- **Workshop:** "Optimizing ETL Workflows in Cloud Environments" – Presented at Big Data Conference 2023.  
+- **Workshops & Blogs:**  
+  - Workshop: "Optimizing ETL Workflows in Cloud Environments" – Big Data Conference 2023.  
 
 ---
 
 ## 🎓 **Education**  
+
 - **M.S. in Computer Science** | Wright State University, Fairborn, OH (_Aug 2024_)  
 - **B.Tech in Computer Science** | Jawaharlal Nehru Technological University, Hyderabad (_May 2020_)  
 
 ---
 
 ## 🖥️ **Portfolio & Code Samples**  
-- **GitHub:** [https://github.com/Abhinav150526](#)
+
+- **[LinkedIn](#)**  
+- **[GitHub](#)**  
 
 ---
 
 ## ✨ **What’s Next?**  
-I am passionate about building scalable, real-time data solutions that drive business decisions. I am currently exploring ways to integrate **machine learning models** into big data platforms to enhance predictive analytics capabilities. If you'd like to collaborate or discuss opportunities, feel free to reach out!  
+
+I am passionate about creating innovative, scalable, real-time data solutions to empower organizations with actionable insights. My focus is on integrating **machine learning models** with big data platforms to enhance predictive analytics capabilities. Let’s connect and discuss how we can collaborate to drive data innovation!  

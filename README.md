@@ -2,7 +2,7 @@
 
 ![Abhinav Singarapu](/Image/Profile__Picture.png)
 
-📍 Fairborn, OH | 📧 singarapu1999@gmail.com | 📞 513-318-8292 | [LinkedIn](#) | [GitHub](#)  
+📍 Fairborn, OH | 📧 singarapu1999@gmail.com | 📞 513-318-8292 | [LinkedIn](https://www.linkedin.com/in/abhinav-singarapu-0750611b0/) | [GitHub](https://github.com/Abhinav150526) 
 
 ---
 
@@ -114,8 +114,8 @@ Power BI, Tableau.
 
 ## 🖥️ **Portfolio & Code Samples**  
 
-- **[LinkedIn](#)**  
-- **[GitHub](#)**  
+- **[LinkedIn]**(https://www.linkedin.com/in/abhinav-singarapu-0750611b0/) 
+- **GitHub:**[https://github.com/Abhinav150526]
 
 ---
 

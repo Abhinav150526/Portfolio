@@ -8,14 +8,30 @@
 
 ## 🛠️ **Technical Expertise**  
 
-- **Big Data Technologies:** Hadoop, Spark, Kafka, Hive, HDFS, Airflow, Sqoop, Flume, Pig, HBase, Impala, MapReduce, Oozie, ANSI SQL, Data Modeling.  
-- **Programming Languages:** Python, PySpark, Java, Scala.  
-- **Cloud Platforms:** AWS (S3, Redshift, Glue, Lambda, Step Functions, EMR), Azure (ADF, Synapse, Data Lake), GCP.  
-- **Databases:** SQL, MySQL, MSSQL, PostgreSQL, Oracle, HBase, DynamoDB, MongoDB.  
-- **Data Warehousing & Data Lakes:** Snowflake, Redshift, BigQuery, Azure Synapse, HDFS, S3, Azure Blob Storage.  
-- **ETL Tools:** Informatica, AWS Glue, Azure Data Factory (ADF).  
-- **Version Control & CI/CD Tools:** Git, Bitbucket, Jenkins, Terraform.  
-- **Business Intelligence Tools:** Power BI, Tableau.  
+### **Big Data Technologies:**  
+Hadoop, Spark, Kafka, Hive, HDFS, Airflow, Sqoop, Flume, Pig, HBase, Impala, MapReduce, Oozie, ANSI SQL, Data Modeling.  
+
+### **Programming Languages:**  
+Python, PySpark, Java, Scala.  
+
+### **Cloud Platforms:**  
+AWS (S3, Redshift, Glue, Lambda, Step Functions, EMR), Azure (ADF, Synapse, Data Lake), GCP.  
+
+### **Databases:**  
+Relational: SQL, MySQL, MSSQL, PostgreSQL, Oracle.  
+NoSQL: HBase, DynamoDB, MongoDB.  
+
+### **Data Warehousing & Data Lakes:**  
+Snowflake, Redshift, BigQuery, Azure Synapse, HDFS, S3, Azure Blob Storage.  
+
+### **ETL Tools:**  
+Informatica, AWS Glue, Azure Data Factory (ADF).  
+
+### **Version Control & CI/CD Tools:**  
+Git, Bitbucket, Jenkins, Terraform.  
+
+### **Business Intelligence Tools:**  
+Power BI, Tableau.    
 
 ---
 

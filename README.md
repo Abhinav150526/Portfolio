@@ -37,8 +37,7 @@
 - Implemented secure data workflows by configuring **IAM roles** and VPC-based access controls for AWS RDS environments.  
 - Built real-time **data pipelines** using AWS Glue and Hive, ensuring scalability for processing millions of customer transactions daily.  
 
-### **Building Cloud-Enabled Analytics at Citi**  
-<img src="./assets/citi_project.jpg" alt="Citi Project" width="600">  
+### **Building Cloud-Enabled Analytics at Citi**   
 
 - Architected **Azure-based ETL pipelines** with Data Factory and Synapse Analytics, enabling seamless integration of SQL and Oracle datasets into Azure Data Lake.  
 - Designed advanced **semantic data models** for Power BI, ensuring accurate and consistent business reporting across departments.  
@@ -46,7 +45,6 @@
 - Tuned SQL queries to improve reporting efficiency by 40%, enabling faster data delivery for business insights.  
 
 ### **Delivering Insights with Analytics at Cyient**  
-<img src="./assets/cyient_project.jpg" alt="Cyient Project" width="600">  
 
 - Created **dynamic dashboards** in Power BI and Tableau, enabling real-time tracking of sales and customer behavior metrics.  
 - Streamlined data preparation workflows using Python and SQL, ensuring accuracy and consistency in reporting datasets.  

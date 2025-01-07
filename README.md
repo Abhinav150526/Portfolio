@@ -114,7 +114,7 @@ Power BI, Tableau.
 
 ## 🖥️ **Portfolio & Code Samples**  
 
-- [LinkedIn](https://www.linkedin.com/in/abhinav-singarapu-0750611b0/)
+- [LinkedIn](https://www.linkedin.com/in/singarapu-abhinav-0750611b0/)
 - [GitHub](https://github.com/Abhinav150526)
 
 ---

@@ -58,7 +58,13 @@ Power BI, Tableau.
 - Architected **Azure-based ETL pipelines** with Data Factory and Synapse Analytics, enabling seamless integration of SQL and Oracle datasets into Azure Data Lake.  
 - Designed advanced **semantic data models** for Power BI, ensuring accurate and consistent business reporting across departments.  
 - Automated ETL workflows with **Azure Functions**, reducing manual tasks and improving pipeline reliability.  
-- Tuned SQL queries to improve reporting efficiency by 40%, enabling faster data delivery for business insights.  
+- Tuned SQL queries to improve reporting efficiency by 40%, enabling faster data delivery for business insights.
+
+### **Optimizing Business Workflows through RPA Automation at Cyient** 
+
+- Contributed to the design and development of RPA bots using UiPath and Automation Anywhere.
+- Analyzed business workflows to identify automation opportunities.
+- Assisted in the deployment of RPA bots and ensured operational efficiency.
 
 ### **Delivering Insights with Analytics at Cyient**  
 
@@ -98,7 +104,9 @@ Power BI, Tableau.
 
 - **Certifications:**  
   - AWS Certified Associate – Specialty  
-  - Azure Data Engineer Associate  
+  - Azure Data Engineer Associate
+  - SQL
+  - PowerBI 
 
 - **Workshops & Blogs:**  
   - Workshop: "Optimizing ETL Workflows in Cloud Environments" – Big Data Conference 2023.  

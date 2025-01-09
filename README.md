@@ -60,7 +60,7 @@ Power BI, Tableau.
 - Automated ETL workflows with **Azure Functions**, reducing manual tasks and improving pipeline reliability.  
 - Tuned SQL queries to improve reporting efficiency by 40%, enabling faster data delivery for business insights.
 
-### **Optimizing Business Workflows through RPA Automation at Cyient** 
+### **Optimizing Business Workflows through RPA Automation at Sasken Technologies** 
 
 - Contributed to the design and development of RPA bots using UiPath and Automation Anywhere.
 - Analyzed business workflows to identify automation opportunities.

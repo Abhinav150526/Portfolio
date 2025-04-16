@@ -115,8 +115,8 @@ Power BI, Tableau.
 
 ## 🎓 **Education**  
 
-- **M.S. in Computer Science** | Wright State University, Fairborn, OH (_Aug 2024_)  
-- **B.Tech in Computer Science** | Jawaharlal Nehru Technological University, Hyderabad (_May 2020_)  
+- **M.S. in Computer Science** | Wright State University, Fairborn, OH  
+- **B.Tech in Computer Science** | Jawaharlal Nehru Technological University, Hyderabad 
 
 ---
 

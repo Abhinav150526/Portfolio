@@ -41,8 +41,8 @@ Power BI, Tableau.
 
 - Engineered **Hadoop-based data architectures** to streamline storage and analytics for large-scale datasets, improving data accessibility across teams.  
 - Built **real-time data processing workflows** using PySpark Streaming and Kafka, enabling sub-second latency for critical operational metrics.  
-- Designed and automated end-to-end **ETL pipelines** using Spark, Hive, and AWS Glue, ensuring seamless flow between structured and unstructured data sources.  
-- Leveraged AWS Glue and Step Functions for workflow orchestration, optimizing performance and reducing manual intervention.  
+- Integrated data from disparate sources, such as SQL, NoSQL, APIs, and cloud platforms, enabling unified analytics and reporting solutions for business stakeholders.  
+- Used Agile tools and techniques to track progress, manage risks, and ensure timely delivery of high-quality products.  
 - Tuned Spark applications to improve data processing efficiency by 30%, reducing operational costs.  
 
 ### **Transforming Data Pipelines at Uber**   
